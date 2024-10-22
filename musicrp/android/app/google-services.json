@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "543472842452",
+    "project_id": "musicrp-51",
+    "storage_bucket": "musicrp-51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:543472842452:android:03b41b709e7076fd7f2d41",
+        "android_client_info": {
+          "package_name": "com.example.musicrp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANUApiJRlYX4mvaUcQQOSms6SVrebrA3w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
